@@ -11,3 +11,5 @@
 Add some text in browser.
 
 *Add text in another branch*
+
+Second text in another branch
